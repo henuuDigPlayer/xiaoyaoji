@@ -4,7 +4,7 @@
  xiaoyaoji-pdf，
  xiaoyaoji-plugins，
  
- 如果对插件修改  打包后讲.zip包粘贴至web模块 plugin目录下
+ 如果对插件修改  打包后将.zip包粘贴至web模块 plugin目录下
  
  3. 操作流程
     新建项目->新建模块->新建http接口
