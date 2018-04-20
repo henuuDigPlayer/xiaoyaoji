@@ -1,0 +1,8 @@
+cn\xiaoyaoji\plugin\doc\RichtextDocPlugin.class
+cn\xiaoyaoji\plugin\doc\FolderDocPlugin.class
+cn\xiaoyaoji\plugin\doc\ThirdpartyDocPlugin.class
+cn\xiaoyaoji\plugin\export\JsonExportPlugin.class
+cn\xiaoyaoji\plugin\doc\HttpDocPlugin.class
+cn\xiaoyaoji\plugin\imports\JsonImportPlugin.class
+cn\xiaoyaoji\plugin\doc\MarkdownDocPlugin.class
+cn\xiaoyaoji\plugin\doc\WebsocketDocPlugin.class
