@@ -36,7 +36,6 @@
                     <ul>
                         <li v-on:click="sidebar('loadShares')"><div class="x-li"><a >项目分享</a></div></li>
                         <li><div class="x-li"><a href="${ctx}/project/${project.id}/info">项目信息</a></div></li>
-                        <li><div class="x-li"><a href="${ctx}/project/${project.id}/transfer">项目转让</a></div></li>
                         <li><div class="x-li"><a href="${ctx}/project/${project.id}/member">项目成员</a></div></li>
                         <li><div class="x-li"><a href="${ctx}/project/${project.id}/export">导出项目</a></div></li>
                         <li><div class="x-li"><a href="${ctx}/project/${project.id}/quit">退出项目</a></div></li>
